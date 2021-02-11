@@ -8,7 +8,7 @@ To reproduce the results that are presented in Figure 4 and Table 1, you have to
 
 
 
-      python mlp_linregcount.py model_pth_path csv_file_path EPS_H
+      python mlp_b_linregcount.py model_pth_path csv_file_path EPS_H
 
 
 
