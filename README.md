@@ -37,7 +37,9 @@ csv_file_path, the path to the csv file that will contains the information to ex
 
 EPS_H, the value of epsilon, the allowed $\ell_\infty$ deformation around original examples.
    
-For example : python main_lippa_mlp_b.py pth_folder/robust_verify_benchmark/NOR_MLP_B.pth "nor_mlp_b_0.05.csv" 0.05.
+For example :     
+                  
+          python main_lippa_mlp_b.py pth_folder/robust_verify_benchmark/NOR_MLP_B.pth "nor_mlp_b_0.05.csv" 0.05.
 
 
 
